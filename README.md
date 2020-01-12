@@ -78,18 +78,18 @@
 |21|Portugal|University of porto|
 |22|Russian Federation|Moscow State Linguistic University|
 |23|Russian Federation|Herzen State Pedagogical University of Russia|
-|24|Slovenia|"University of Ljubljana| Faculty of Arts"|
+|24|Slovenia|University of Ljubljana| Faculty of Arts|
 |25|Spain|Universidad de Granada|
 |26|Spain|Universidad de Salamanca|
 |27|Switzerland|Université de Genève|
 |28|Switzerland|Zürcher Hochschule für Angewandte Wissenschaften (ZHAW)|
-|29|Turkey|"Hacettepe University| Faculty of Letters"|
+|29|Turkey|Hacettepe University| Faculty of Letters|
 |30|United Kingdom|University of Bath|
 |31|United Kingdom|London Metropolitan University (LMU)|
 |32|United Kingdom|University of Leeds|
 |33|United Kingdom|Heriot-Watt University|
 |34|United Kingdom|University of Westminster|
-|35|United Kingdom|"Swansea University|"|
+|35|United Kingdom|Swansea University||
 |36|United Kingdom|University of surrey|
 |37|United Kingdom|Durham University|
 |38|United Kingdom|The University of Sheffield|
