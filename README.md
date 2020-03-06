@@ -56,10 +56,10 @@
 |序号|国家|院校|
 |-----|-----|-----|
 |1|Australia|The Monash university|
-|2|Belgique|UCLouvain|
-|3|Belgique|Université de Mons|
-|4|Belgique|KU Leuven|
-|5|Belgique|Universiteit Antwerpen|
+|2|Belgium|UCLouvain|
+|3|Belgium|Université de Mons|
+|4|Belgium|KU Leuven|
+|5|Belgium|Universiteit Antwerpen|
 |6|Finland|Turku university|
 |7|France|ISIT|
 |8|France|Université de Bourgogne|
