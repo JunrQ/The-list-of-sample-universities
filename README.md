@@ -26,7 +26,7 @@
 |20|山东|中国海洋大学|
 |21|四川|电子科技大学|
 |22|湖北|华中科技大学|
-|23|南京|南开大学|
+|23|天津|南开大学|
 |24|天津|天津外国语大学|
 |25|浙江|浙江大学|
 |26|北京|北京师范大学|
@@ -60,36 +60,36 @@
 |3|Belgique|Université de Mons|
 |4|Belgique|KU Leuven|
 |5|Belgique|Universiteit Antwerpen|
-|6|Dublin|Dublin City University|
-|7|Elláda|Aristotle University of Thessaloniki|
-|8|Finland|Turku university|
-|9|France|ISIT|
-|10|France|Université de Bourgogne|
-|11|France|Université Rennes 2|
-|12|Germany|Universität des Saarlandes|
+|6|Finland|Turku university|
+|7|France|ISIT|
+|8|France|Université de Bourgogne|
+|9|France|Université Rennes 2|
+|10|Germany|Universität des Saarlandes|
+|11|Greece|Aristotle University of Thessaloniki|
+|12|Ireland|Dublin City University|
 |13|Ireland|University College Cork|
 |14|Italy|Università degli Studi di Bologna|
 |15|Italy|Università degli Studi Internazionali di Roma — UNINT|
 |16|Korea|Hankuk University of Foreign Studies|
-|17|Latvija|Riga Technical University|
+|17|Latvia|Riga Technical University|
 |18|Lebanon|Uiversity of  Balamad|
 |19|Nederland|Universiteit Leiden|
 |20|Poland|University of Warsaw|
 |21|Portugal|University of porto|
-|22|Russian Federation|Moscow State Linguistic University|
-|23|Russian Federation|Herzen State Pedagogical University of Russia|
-|24|Slovenia|University of Ljubljana| Faculty of Arts|
+|22|Russia|Moscow State Linguistic University|
+|23|Russia|Herzen State Pedagogical University of Russia|
+|24|Slovenia|"University of Ljubljana| Faculty of Arts"|
 |25|Spain|Universidad de Granada|
 |26|Spain|Universidad de Salamanca|
 |27|Switzerland|Université de Genève|
 |28|Switzerland|Zürcher Hochschule für Angewandte Wissenschaften (ZHAW)|
-|29|Turkey|Hacettepe University| Faculty of Letters|
+|29|Turkey|"Hacettepe University| Faculty of Letters"|
 |30|United Kingdom|University of Bath|
 |31|United Kingdom|London Metropolitan University (LMU)|
 |32|United Kingdom|University of Leeds|
 |33|United Kingdom|Heriot-Watt University|
 |34|United Kingdom|University of Westminster|
-|35|United Kingdom|Swansea University||
+|35|United Kingdom|"Swansea University|"|
 |36|United Kingdom|University of surrey|
 |37|United Kingdom|Durham University|
 |38|United Kingdom|The University of Sheffield|
